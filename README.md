@@ -1,0 +1,2 @@
+# javascript
+java basic code 
